@@ -1,6 +1,43 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
-body {
-  background-color: blue;
+.sidenav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(41, 99, 146);
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 16px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #979696;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: rgb(192, 131, 108);
+}
+
+.sidenav h1 a {
+  font-size: 40px;
+  font-weight: 200;
+  color: rgb(192, 131, 108);
+}
+
+.main {
+  background-color: rgb(105, 105, 105);
+  height: 100vh;
+  margin-left: 200px;
+  font-size: 28px;
+  padding: 0px 10px;
 }

@@ -1,0 +1,42 @@
+{
+  "project1": {
+    "id": "project1",
+    "title": "Star Destroyer",
+    "screenshot": "https://user-images.githubusercontent.com/51214463/71315990-4bfa1e80-242e-11ea-8b16-bba6a1f05ccb.PNG",
+    "description": "Use this application to view the Star Destroyer Database and edit its content.",
+    "technologiesUsed": "HTML5, CSS3, JavaScript, Jquery, Bootstrap 4, webpack & Firebase",
+    "available": true,
+    "url": "https://nutshell-star-destroyer.firebaseapp.com/",
+    "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-star-destroyer"
+  },
+  "project2": {
+    "id": "project2",
+    "title": "Tamagotchi",
+    "screenshot": "https://user-images.githubusercontent.com/51214463/66420587-bf61c780-e9cb-11e9-8467-f8c948e01508.PNG",
+    "description": "Use this application to play with your virtual pet. You can feed, fight, play and sleep just by pressing buttons. Try not to let your energy go to low.",
+    "technologiesUsed": "HTML5, CSS3, JavaScript, SASS, jQuery & Webpack",
+    "available": true,
+    "url": "https://tamagotchi-62cef.firebaseapp.com/",
+    "githubUrl": "https://github.com/John-Ryan-Johnson/Tamagotchi"
+  },
+  "project3": {
+    "id": "project3",
+    "title": "Sorting Hat",
+    "screenshot": "https://user-images.githubusercontent.com/51214463/65899431-5cdc4c00-e379-11e9-8cc5-5080b9127cec.PNG",
+    "description": "Use application to add students to HoggyWarts house and add them to randomly assigned houses.",
+    "technologiesUsed": "HTML5, CSS3 and JavaScript",
+    "available": true,
+    "url": "https://sorting-hat-e7627.firebaseapp.com/",
+    "githubUrl": "https://github.com/John-Ryan-Johnson/Sorting-Hat"
+  },
+  "project4": {
+    "id": "project4",
+    "title": "Sport Roster",
+    "screenshot": "https://raw.githubusercontent.com/John-Ryan-Johnson/sport-roster/master/Screenshots/Cleveland%20Indians.PNG",
+    "description": "This application has full CRUD on a single collection of players. The user can view players on their team once they are logged in. They can add new players to their team, remove players, and update current players. The form to create and update players will show and hide as it is needed.",
+    "technologiesUsed": "React, Sass, Bootstrap and Firebase",
+    "available": true,
+    "url": "https://sport-roster.firebaseapp.com",
+    "githubUrl": "https://github.com/John-Ryan-Johnson/sport-roster"
+  }
+}
