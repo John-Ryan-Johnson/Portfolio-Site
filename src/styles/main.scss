@@ -2,25 +2,30 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: gray;
+  background-color: #010101;
 }
+
+.navbar {
+  background-color: #010101;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #00a79a;}
 
 .myName {
   font-weight: 400;
+  color: #00a79a;
 }
 
-img {
-  width: 400px;
-  height: 400px;
+.footer {
+  background-color: #010101;
+  height: 70px;
+  width: 100%;
 }
 
-.footer a {
-  color: white;
+.footer .nav-link {
+  color: #00a79a;
   text-decoration: none;
 }
 
-.footer a:hover {
-  color: blue;
-  text-decoration: none;
-  cursor: pointer;
-}
+

@@ -13,7 +13,8 @@ img {
 }
 
 .front, .back {
-  box-sizing: border-box;
+	box-sizing: border-box;
+	border: 1px solid #00a79a;
   border-radius: 30px;
 	padding: .05rem;
 	box-shadow: 0 1rem 2rem rgba(0, 0, 0, .25);
@@ -23,7 +24,7 @@ img {
 }
 
 .front {
-  background-color: #212529;
+  background-color: #010101;
 }
 
 .back {

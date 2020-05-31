@@ -4,7 +4,7 @@ import projectsData from '../../helpers/data/projectsData';
 import projectCard from '../projectCard/projectCard';
 
 const displayAllProjects = () => {
-  let domString = '<h3 class="text-center mt-5 mb-1">Projects</h3>';
+  let domString = '<h3 class="headingProjects text-center mt-5 mb-1">Projects</h3>';
   domString += '<div class="d-flex flex-wrap justify-content-center">';
   projectsData.getAllProjects()
     .then((projects) => {

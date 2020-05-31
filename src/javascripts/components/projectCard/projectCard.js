@@ -9,7 +9,7 @@ const projectCardBuilder = (project) => {
         <img src="${project.screenshot}" alt="project image">
       </div>
       <div class="back">
-        <h4 class="mb-3">${project.title}</h4>
+        <h4 class="mt-3 mb-5">${project.title}</h4>
         <p>${project.description}</p>
         <hr></hr>
         <p class="mb-5">${project.technologiesUsed}</p>
