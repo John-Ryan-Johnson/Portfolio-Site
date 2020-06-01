@@ -10,8 +10,7 @@ Home:
 ![Portfolio-Site-home](https://user-images.githubusercontent.com/51214463/83433841-1a36ac00-a3ff-11ea-9bd1-a1f9312437f5.PNG)
 
 About Me:
-
-
+![Portfolio-Site-bio](https://user-images.githubusercontent.com/51214463/83441501-3db42380-a40c-11ea-93f4-c770024353fb.PNG)
 
 Technologies Used:
 ![Portfolio-Site-tech](https://user-images.githubusercontent.com/51214463/83434024-5702a300-a3ff-11ea-93c9-afe6c7f5340f.PNG)

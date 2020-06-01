@@ -8,8 +8,11 @@ const buildBioSection = () => {
       <div class="aboutText mt-5 mr-5">
         <div>
           <p>Hello! I'm John, a software developer based in Nashville, TN.</p>
-          <p></p>
-          <p></p>
+          <p>My passion for software development started with watching videos online.</p>
+          <p>Seeing the things that people create with code and an idea is amazing to me.</p>
+          <p>Working in a team environment with a common goal is a life changing experience. I enjoy the camaraderie. The continuous learning of the fundamentals and all of the new things in software help to keep my mind fresh and renewed for each challenge. Learning is my new career. If you have any questions or would like to talk, please call or email me. Thank You!
+          </p>
+          <hr>
         </div>
       </div>
       <div class="aboutPic mt-5 ml-5">
