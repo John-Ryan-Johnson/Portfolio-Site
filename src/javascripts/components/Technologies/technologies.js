@@ -12,6 +12,7 @@ const buildTechSection = () => {
         <li><img class="tech-item" src="https://img.icons8.com/dusk/144/000000/webpack.png"/></li>
         <li><img class="tech-item" src="https://img.icons8.com/color/144/000000/git.png"/></li>
         <li><img class="tech-item" src="https://img.icons8.com/color/144/000000/github--v1.png"/></li>
+        <li><img class="tech-item" src="https://icons.iconarchive.com/icons/sicons/basic-round-social/512/jquery-icon.png"/></li>
         <li><img class="tech-item" src="https://img.icons8.com/color/144/000000/javascript.png"/></li>
         <li><img class="tech-item" src="https://img.icons8.com/officel/144/000000/react.png"/></li>
       </ul>

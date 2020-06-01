@@ -12,7 +12,7 @@ const buildBioSection = () => {
           <p></p>
         </div>
       </div>
-      <div class="aboutPic ml-5">
+      <div class="aboutPic mt-5 ml-5">
         <img src="https://avatars2.githubusercontent.com/u/51214463?s=460&u=bf38790b2acacad17741a86c07dfe6fab445b429&v=4" class="styledAboutPic"></img>
       </div>
     </div>

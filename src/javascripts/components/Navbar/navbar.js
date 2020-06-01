@@ -4,7 +4,7 @@ const buildNavbar = () => {
   const domString = `
   <nav class="navbar navbar-expand-md bg-custom">
     <a href="/" class="navbar-brand">
-      <h2 class="myName">John R. Johnson</h2>
+      <h2 class="myName">John R Johnson</h2>
     </a>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
       <span class="navbar-toggler-icon"></span>
