@@ -1,11 +1,24 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
+html {
+  min-height: 100%;
+  position: relative;
+}
+
 body {
+  height: 100%;
+  background-image: url(../images/team.png);
   background-color: #010101;
 }
 
-.navbar {
+.fullPage {
+  background-color: #010101;
+  position: absolute;
+  width: 100%;
+}
+
+#nav-div {
   background-color: #010101;
 }
 
