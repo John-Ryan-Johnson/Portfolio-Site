@@ -38,5 +38,15 @@
     "available": true,
     "url": "https://sport-roster.firebaseapp.com",
     "githubUrl": "https://github.com/John-Ryan-Johnson/sport-roster"
+  },
+  "project5": {
+    "id": "project5",
+    "title": "MotoWorx",
+    "screenshot": "https://user-images.githubusercontent.com/51214463/86522532-198d9d00-be25-11ea-896e-952b44e6028e.PNG",
+    "description": "MotoWorx was created for motorcycle owners that would like to keep up with maintenance items and mods that have been performed on their bikes. Whether these were done by the owner or a dealer, upkeep of a motorcycle is paramount for safety and resale value. When a person buys a new motorcycle they are usually given a manual with all maintenance checks to be done at certain intervals. Whenever a person buys a used motorcycle, that may not be the case. It is usually dirty, pages torn or completely missing. This application can supplement for a manual or be a backup to one. The user can create and edit a motorcycle and maintenance or mod item and also delete as needed when the bike is sold. A person can have as many entries as they need, as data is not kept on the users personal computer thereby freeing up much needed space. This app utilizes cards with inputs instead of just inputs to have a better visual experience for the user. Another important aspect is that this app can be used for multiple motorcycles or any vehicle type mixture that the user has.",
+    "technologiesUsed": "Axios, Bootstrap, CSS, Firebase, Github, HTML5, JavaScript, JSX, React, React Router, reactstrap, SASS and Webpack",
+    "available": true,
+    "url": "https://motoworx-1e6a3.web.app",
+    "githubUrl": "https://github.com/John-Ryan-Johnson/Frontend-Capstone"
   }
 }
